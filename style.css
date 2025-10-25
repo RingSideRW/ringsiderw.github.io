@@ -28,6 +28,10 @@ body {
   padding: 0 20px;
 }
 
+.container-news .container {
+  max-width: 2000px;
+} 
+
 header {
   background-color: var(--secondary-color);
   border-bottom: 3px solid var(--primary-color);
